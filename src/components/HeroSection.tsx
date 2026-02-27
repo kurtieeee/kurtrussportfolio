@@ -52,12 +52,6 @@ const HeroSection = () => (
             >
               Download CV ↓
             </a>
-            <a
-              href="#contact"
-              className="inline-flex items-center px-6 py-3 rounded-lg border border-border text-muted-foreground font-display font-semibold text-sm hover:text-primary hover:border-primary/40 transition-colors"
-            >
-              Contact
-            </a>
           </div>
 
           {/* Social icons */}
