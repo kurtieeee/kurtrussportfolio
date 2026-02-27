@@ -7,8 +7,9 @@ const AboutSection = () => (
     <SectionHeading title="About Me" />
     <div className="max-w-3xl">
       <p className="text-foreground text-lg leading-relaxed mb-8">
-        I specialize in front-end systems, API integrations, and applied machine learning.
-        I enjoy turning complex problems into scalable, real-world software solutions.
+          I specialize in front-end architecture, API integrations, and applied machine learning.
+          I design and build scalable, production-ready systems that translate complex requirements into efficient, real-world solutions.
+          My approach emphasizes clean architecture, performance optimization, maintainability, and long-term scalability.
       </p>
 
       <div className="space-y-6">

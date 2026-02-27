@@ -4,7 +4,7 @@ import heroPhoto from "../assets/hero-photo.png";
 import acostaCV from "../assets/Acosta_CV.pdf";
 import { Instagram, Linkedin, Github, Music2 } from "lucide-react";
 
-const techStack = ["React", "Python", "Flask", "TensorFlow", "JavaScript", "Flutter"];
+const techStack = ["React", "Python", "Flask", "JavaScript", "Flutter"];
 
 const socials = [
   { icon: Instagram, href: "https://www.instagram.com/kurtrussss", label: "Instagram" },
@@ -30,12 +30,12 @@ const HeroSection = () => (
             <span className="text-gradient">M. Acosta</span>
           </h1>
           <p className="text-secondary font-mono text-sm mb-4">
-            Software Engineer &amp; ML Developer
+            Software Engineer
           </p>
           <p className="text-muted-foreground text-lg max-w-md mb-8 leading-relaxed">
-            Computer Science undergraduate focused on software engineering, front-end development,
-            and applied machine learning. Passionate about combining clean design, performance,
-            and practical AI solutions.
+            Aspiring software engineer with hands-on experience in front-end and back-end development, along with applied machine learning.
+            Focused on delivering clean, efficient, and scalable digital solutions.
+            Passionate about learning new technologies and continuously improving my skills.
           </p>
 
           <div className="flex flex-wrap gap-3 mb-6">
