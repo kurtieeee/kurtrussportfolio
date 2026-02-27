@@ -14,7 +14,7 @@ const ContactSection = () => (
           <Mail className="w-5 h-5 text-primary" />
           <span>acostakurtruss@gmail.com</span>
         </a>
-        <a href="https://github.com/kurtruss" target="_blank" rel="noopener noreferrer" className="flex items-center gap-3 text-foreground hover:text-primary transition-colors">
+        <a href="https://github.com/kurtieeee" target="_blank" rel="noopener noreferrer" className="flex items-center gap-3 text-foreground hover:text-primary transition-colors">
           <Github className="w-5 h-5 text-primary" />
           <span>GitHub</span>
         </a>
