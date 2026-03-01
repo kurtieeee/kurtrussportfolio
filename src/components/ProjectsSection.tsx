@@ -19,6 +19,14 @@ const projects = [
     feature: "Backend Developer / ML Engineer",
     demo: "https://github.com/ielliee/badyethero",
   },
+    {
+    title: "Noteweave – Audio to Sheet-Music Tool (Frontend Prototype)",
+    description:
+      "Developed a responsive and interactive frontend interface for recording or uploading piano performances and generating readable sheet music. Built with React and TypeScript using reusable components, ensuring clean state management, type safety, and a scalable UI architecture.",
+    tech: ["React", "HTML", "CSS", "JavaScript", "TypeScript"],
+    feature: "Frontend Developer",
+    demo: "https://github.com/kurtieeee/noteweave",
+  },
 ];
 
 const ProjectsSection = () => (
