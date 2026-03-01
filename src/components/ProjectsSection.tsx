@@ -24,7 +24,7 @@ const projects = [
     description:
       "Developed a responsive and interactive frontend interface for recording or uploading piano performances and generating readable sheet music. Built with React and TypeScript using reusable components, ensuring clean state management, type safety, and a scalable UI architecture.",
     tech: ["React", "HTML", "CSS", "JavaScript", "TypeScript"],
-    feature: "Frontend Developer",
+    feature: "Full-Stack Developer",
     demo: "https://github.com/kurtieeee/noteweave",
   },
 ];
