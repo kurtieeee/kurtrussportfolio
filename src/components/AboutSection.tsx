@@ -7,9 +7,10 @@ const AboutSection = () => (
     <SectionHeading title="About Me" />
     <div className="max-w-3xl">
       <p className="text-foreground text-lg leading-relaxed mb-8">
-I specialize in front-end architecture, back-end development, API integrations, and applied machine learning.
-I design and engineer scalable, production-ready systems that transform complex business requirements into efficient, high-impact solutions.
-My experience spans building robust client-side interfaces, architecting reliable server-side infrastructures, and integrating intelligent data-driven components into full-stack applications. I prioritize clean architecture, performance optimization, maintainability, and long-term scalability to ensure systems remain resilient and adaptable as they grow.
+        I specialize in front-end architecture, back-end development, API integrations, and applied machine learning.
+        I build scalable, production-ready systems that turn complex requirements into practical, real-world solutions.
+        My experience covers developing responsive user interfaces, designing reliable server-side systems, and integrating data-driven features into full-stack applications.
+        I focus on clean code, performance, maintainability, and long-term scalability.
       </p>
 
       <div className="space-y-6">
