@@ -33,7 +33,7 @@ const ProjectsSection = () => (
   <Section id="projects">
     <SectionHeading
       title="Projects"
-      subtitle="Hands-on work across front-end development and applied ML."
+      subtitle="Hands-on work across front-end development, back-end development, and applied ML."
     />
     <div className="grid md:grid-cols-2 gap-6">
       {projects.map((p) => (
