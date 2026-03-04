@@ -9,9 +9,9 @@ const techStack = ["React", "Python", "Flask", "JavaScript", "Flutter"];
 const socials = [
   { icon: Mail, href: "mailto:acostakurtruss@gmail.com", label: "Email" },
   { icon: Instagram, href: "https://www.instagram.com/kurtrussss", label: "Instagram" },
+  { icon: Music2, href: "https://www.tiktok.com/@kurtrussss", label: "TikTok" },
   { icon: Linkedin, href: "https://www.linkedin.com/in/kurt-russell-acosta-4b3a943a9/", label: "LinkedIn" },
   { icon: Github, href: "https://github.com/kurtieeee", label: "GitHub" },
-  { icon: Music2, href: "https://www.tiktok.com/@kurtrussss", label: "TikTok" },
 ];
 
 const HeroSection = () => (
