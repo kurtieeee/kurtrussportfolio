@@ -7,13 +7,13 @@ const categories = [
   {
     title: "Programming Languages",
     icon: Code2,
-    items: ["Python", "JavaScript", "Dart", "SQL", "HTML", "CSS"],
+    items: ["Python", "JavaScript", "Dart", "HTML", "CSS"],
     variant: "primary" as const,
   },
   {
     title: "Frameworks & Libraries",
     icon: Layers,
-    items: ["React", "Flask", "TensorFlow", "Scikit-learn", "Pandas", "NumPy", "Flutter"],
+    items: ["React", "Flask", "Flutter"],
     variant: "primary" as const,
   },
   {
