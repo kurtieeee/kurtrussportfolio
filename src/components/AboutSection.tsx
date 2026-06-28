@@ -24,7 +24,7 @@ const AboutSection = () => (
               De La Salle University – Dasmariñas (2023 – Present)
             </p>
             <div className="flex flex-wrap gap-3 mt-2">
-              <span className="text-xs font-mono text-secondary">GPA: 3.50 / 4.00</span>
+              <span className="text-xs font-mono text-secondary">GPA: 3.82 / 4.00</span>
             </div>
           </div>
         </div>
